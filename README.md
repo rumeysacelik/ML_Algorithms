@@ -19,21 +19,6 @@ This script provides a solution to the Travelling Salesman Problem using a brute
 
 #### Example
 
-```python
-cities = ['A', 'B', 'C', 'D']
-
-distances = [
-    [0, 10, 15, 20],
-    [10, 0, 35, 25],
-    [15, 35, 0, 30],
-    [20, 25, 30, 0]
-]```
-
-
-shortest_path, shortest_distance = find_shortest_path(cities, distances)
-print("Shortest Path:", shortest_path)
-print("Shortest Distance:", shortest_distance)
-
 
 # KNN_algorithm.py
 
