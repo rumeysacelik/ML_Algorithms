@@ -17,8 +17,6 @@ This script provides a solution to the Travelling Salesman Problem using a brute
 2. Define the distance matrix representing distances between each pair of cities.
 3. Run the script to find and print the shortest path and its distance.
 
-#### Example
-
 
 # KNN_algorithm.py
 
